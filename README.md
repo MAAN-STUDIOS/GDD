@@ -40,7 +40,7 @@
 
 ### **Summary**
 
-Cosmonavt es un roguelite sci-fi de acción con perspectiva isométrica. Explora el espacio tras un accidente temporal,
+Cosmonavt es un roguelite sci-fi de acción con perspectiva top down. Explora el espacio tras un accidente temporal,
 sobrevive a los Flood y reconstruye la historia perdida mientras cooperas o compites con otros jugadores.
 
 #### Story
