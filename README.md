@@ -132,7 +132,7 @@ en una oportunidad de colaboración y estrategia con sus cercanos.
 
 ### **Controls**
 
-- Movimiento: WASD
+- Movimiento: WASD / Arrow keys
 - Interactuar: E
 - Usar objeto: click izquierdo
 - Ciclar ítems: scroll
